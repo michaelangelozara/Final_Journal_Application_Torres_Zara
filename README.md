@@ -53,5 +53,5 @@ Journal is a mobile application built with Flutter in Android Studio that serves
 
 - **Convenience and Accessibility**: Access your journal from your mobile device at any time. It's a private space for your thoughts, always available when inspiration strikes.
 
-We hope MyJournal becomes a valuable companion on your journey of self-expression and introspection. Enjoy the process of journaling and cherish the moments you capture.
+We hope Journal becomes a valuable companion on your journey of self-expression and introspection. Enjoy the process of journaling and cherish the moments you capture.
 
