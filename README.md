@@ -18,6 +18,7 @@ Journal is a mobile application built with Flutter in Android Studio that serves
    - Enter the memories and save your thoughts and experiences.
    - Save the entry to store it in your journal.
    - After clicking the save button the new Journal will be saved.
+     
 ![add](https://github.com/michaelangelozara/Final_Journal_Application_Torres_Zara/assets/89846757/1f649e5f-ca92-4507-a20a-cb4dc7e8e3ba)
 ![save](https://github.com/michaelangelozara/Final_Journal_Application_Torres_Zara/assets/89846757/2bd857bc-d057-4ce5-a728-8ff43d39f5e8)
 
@@ -32,6 +33,7 @@ Journal is a mobile application built with Flutter in Android Studio that serves
    - To remove an entry:
      - From the list of entries, click on the delete icon on the entry you want to delete.
      - Confirm the deletion when prompted.
+       
  ![delete](https://github.com/michaelangelozara/Final_Journal_Application_Torres_Zara/assets/89846757/85bacdf1-8c7c-498c-a683-d7ef7f49bbab)
 ![confirm](https://github.com/michaelangelozara/Final_Journal_Application_Torres_Zara/assets/89846757/af4a2ac9-54f1-4576-8387-87d9cbe385f7)
 
