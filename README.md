@@ -18,21 +18,38 @@ Journal is a mobile application built with Flutter in Android Studio that serves
    - Enter the memories and save your thoughts and experiences.
    - Save the entry to store it in your journal.
    - After clicking the save button the new Journal will be saved.
-![415486864_1097048751477994_3291485401588910714_n](https://github.com/michaelangelozara/Final_Journal_Application_Torres_Zara/assets/89846757/db59c4ee-1512-43c6-a636-d1b67f73a68d)
+![add](https://github.com/michaelangelozara/Final_Journal_Application_Torres_Zara/assets/89846757/1f649e5f-ca92-4507-a20a-cb4dc7e8e3ba)
+![save](https://github.com/michaelangelozara/Final_Journal_Application_Torres_Zara/assets/89846757/2bd857bc-d057-4ce5-a728-8ff43d39f5e8)
+
 
 2. **View and Manage Entries**:
    - Access your existing entries from the home screen.
    - Tap on an entry to view its details.
-   - Edit or delete entries as needed.
-  
+   - Edit or delete entries as needed.  
   
 
 3. **Deleting Entries**:
    - To remove an entry:
      - From the list of entries, click on the delete icon on the entry you want to delete.
      - Confirm the deletion when prompted.
-       
+ ![delete](https://github.com/michaelangelozara/Final_Journal_Application_Torres_Zara/assets/89846757/85bacdf1-8c7c-498c-a683-d7ef7f49bbab)
+![confirm](https://github.com/michaelangelozara/Final_Journal_Application_Torres_Zara/assets/89846757/af4a2ac9-54f1-4576-8387-87d9cbe385f7)
+
+          
   4. **Sorting Entries**:
    - Utilize the sorting function to arrange entries by date.
    - Easily navigate through your journal based on chronological order.
+
+![1](https://github.com/michaelangelozara/Final_Journal_Application_Torres_Zara/assets/89846757/b6d5fe58-8de9-4e26-b680-46511f32e4f3)
+
+
+## How Journal Can Help You
+
+- **Reflection and Growth**: Use Journal as a tool for self-reflection and personal growth. Review past entries to see how far you've come and gain insights into your thoughts and emotions.
+
+- **Memories Preservation**: Preserve your memories in a digital format. Capture fleeting moments, emotions, and experiences to revisit them anytime, anywhere.
+
+- **Convenience and Accessibility**: Access your journal from your mobile device at any time. It's a private space for your thoughts, always available when inspiration strikes.
+
+We hope MyJournal becomes a valuable companion on your journey of self-expression and introspection. Enjoy the process of journaling and cherish the moments you capture.
 
